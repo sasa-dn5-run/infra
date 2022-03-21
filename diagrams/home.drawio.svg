@@ -1,0 +1,554 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1723px" height="1483px" viewBox="-0.5 -0.5 1723 1483" content="&lt;mxfile&gt;&lt;diagram id=&quot;7DBldn--htOnuiqrjamj&quot; name=&quot;ページ1&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <style type="text/css">
+            /* cyrillic-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.gstatic.com/s/inter/v8/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZJhiI2B.woff2") format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.gstatic.com/s/inter/v8/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZthiI2B.woff2") format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.gstatic.com/s/inter/v8/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZNhiI2B.woff2") format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.gstatic.com/s/inter/v8/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZxhiI2B.woff2") format('woff2');
+  unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.gstatic.com/s/inter/v8/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZBhiI2B.woff2") format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.gstatic.com/s/inter/v8/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZFhiI2B.woff2") format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.gstatic.com/s/inter/v8/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZ9hiA.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+        </style>
+    </defs>
+    <g>
+        <rect x="1" y="801" width="800" height="680" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-width="2.5" pointer-events="all"/>
+        <rect x="841" y="801" width="880" height="680" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-width="2.5" pointer-events="all"/>
+        <path d="M 21 761 L 21 711 Q 21 701 31 701 L 721 701 Q 731 701 731 691 L 731 641" fill="none" stroke="rgb(0, 0, 0)" stroke-width="2.5" stroke-miterlimit="10" pointer-events="stroke"/>
+        <rect x="1" y="761" width="40" height="40" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-width="2.5" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 781px; margin-left: 2px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                1G
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="21" y="787" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="20px" text-anchor="middle">
+                    1G
+                </text>
+            </switch>
+        </g>
+        <path d="M 861 761 L 861 641" fill="none" stroke="rgb(0, 0, 0)" stroke-width="2.5" stroke-miterlimit="10" pointer-events="stroke"/>
+        <rect x="841" y="761" width="40" height="40" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-width="2.5" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 781px; margin-left: 842px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                1G
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="861" y="787" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="20px" text-anchor="middle">
+                    1G
+                </text>
+            </switch>
+        </g>
+        <path d="M 861 561 L 861 481" fill="none" stroke="rgb(0, 0, 0)" stroke-width="2.5" stroke-miterlimit="10" pointer-events="stroke"/>
+        <rect x="601" y="561" width="520" height="80" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-width="2.5" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 518px; height: 1px; padding-top: 601px; margin-left: 602px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 15px; font-family: Inter; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                WRC-1167GHBK2-I (AP Mode)
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="861" y="606" fill="rgb(0, 0, 0)" font-family="Inter" font-size="15px" text-anchor="middle">
+                    WRC-1167GHBK2-I (AP Mode)
+                </text>
+            </switch>
+        </g>
+        <path d="M 861 401 L 861 351 Q 861 341 871 341 L 907 341 Q 917 341 917 331 L 917 267" fill="none" stroke="rgb(0, 0, 0)" stroke-width="2.5" stroke-miterlimit="10" pointer-events="stroke"/>
+        <rect x="601" y="401" width="520" height="80" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-width="2.5" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 518px; height: 1px; padding-top: 441px; margin-left: 602px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 15px; font-family: Inter; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                PR-500MI (Router)
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="861" y="446" fill="rgb(0, 0, 0)" font-family="Inter" font-size="15px" text-anchor="middle">
+                    PR-500MI (Router)
+                </text>
+            </switch>
+        </g>
+        <path d="M 561 521 L 721 521 Q 731 521 731 511 L 731 481" fill="none" stroke="rgb(0, 0, 0)" stroke-width="2.5" stroke-miterlimit="10" pointer-events="stroke"/>
+        <rect x="441" y="481" width="120" height="80" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-width="2.5" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 521px; margin-left: 442px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 15px; font-family: Inter; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                その他機器
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="501" y="526" fill="rgb(0, 0, 0)" font-family="Inter" font-size="15px" text-anchor="middle">
+                    その他機器
+                </text>
+            </switch>
+        </g>
+        <path d="M 1081 721 L 1001 721 Q 991 721 991 711 L 991 641" fill="none" stroke="rgb(0, 0, 0)" stroke-width="2.5" stroke-miterlimit="10" pointer-events="stroke"/>
+        <rect x="1081" y="681" width="120" height="80" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-width="2.5" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 721px; margin-left: 1082px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 15px; font-family: Inter; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                その他機器
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1141" y="726" fill="rgb(0, 0, 0)" font-family="Inter" font-size="15px" text-anchor="middle">
+                    その他機器
+                </text>
+            </switch>
+        </g>
+        <path d="M 761 71 C 657 71 631 141 714.2 155 C 631 185.8 724.6 253 792.2 225 C 839 281 995 281 1047 225 C 1151 225 1151 169 1086 141 C 1151 85 1047 29 956 57 C 891 15 787 15 761 71 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-width="2.5" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 518px; height: 1px; padding-top: 141px; margin-left: 632px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 15px; font-family: Inter; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <span style="font-size: 30px">
+                                    Internet
+                                    <br/>
+                                    ( ASAHI NET )
+                                    <br/>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="891" y="146" fill="rgb(0, 0, 0)" font-family="Inter" font-size="15px" text-anchor="middle">
+                    Internet...
+                </text>
+            </switch>
+        </g>
+        <rect x="1" y="801" width="250" height="50" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 248px; height: 1px; padding-top: 826px; margin-left: 2px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <font face="Inter">
+                                    ProxmoxVE 01
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="126" y="835" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px" text-anchor="middle">
+                    ProxmoxVE 01
+                </text>
+            </switch>
+        </g>
+        <rect x="841" y="801" width="250" height="50" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 248px; height: 1px; padding-top: 826px; margin-left: 842px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <font face="Inter">
+                                    ProxmoxVE 02
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="966" y="835" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px" text-anchor="middle">
+                    ProxmoxVE 02
+                </text>
+            </switch>
+        </g>
+        <rect x="21" y="1161" width="350" height="300" rx="21" ry="21" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-width="2.5" pointer-events="all"/>
+        <rect x="21" y="1161" width="150" height="50" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 148px; height: 1px; padding-top: 1186px; margin-left: 22px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <font face="Inter">
+                                    dn5.db
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="96" y="1195" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px" text-anchor="middle">
+                    dn5.db
+                </text>
+            </switch>
+        </g>
+        <rect x="61" y="1211" width="280" height="150" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 278px; height: 1px; padding-top: 1286px; margin-left: 63px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Inter; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <font style="font-size: 25px">
+                                    Core: 1
+                                    <br/>
+                                    RAM: 2GB
+                                    <br/>
+                                    OS: Rocky
+                                </font>
+                                <br/>
+                                <div style="text-align: justify"></div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="63" y="1295" fill="rgb(0, 0, 0)" font-family="Inter" font-size="30px">
+                    Core: 1...
+                </text>
+            </switch>
+        </g>
+        <rect x="411" y="1161" width="350" height="300" rx="21" ry="21" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-width="2.5" pointer-events="all"/>
+        <rect x="411" y="1161" width="160" height="50" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 158px; height: 1px; padding-top: 1186px; margin-left: 412px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <font face="Inter">
+                                    sasa.dn5
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="491" y="1195" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px" text-anchor="middle">
+                    sasa.dn5
+                </text>
+            </switch>
+        </g>
+        <rect x="451" y="1211" width="270" height="150" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 268px; height: 1px; padding-top: 1286px; margin-left: 453px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Inter; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <font style="font-size: 25px">
+                                    Core:  4
+                                    <br/>
+                                    RAM: 2GB
+                                    <br/>
+                                    OS: Rocky
+                                </font>
+                                <br/>
+                                <div style="text-align: justify"></div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="453" y="1295" fill="rgb(0, 0, 0)" font-family="Inter" font-size="30px">
+                    Core:  4...
+                </text>
+            </switch>
+        </g>
+        <rect x="31" y="1361" width="330" height="90" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 328px; height: 1px; padding-top: 1406px; margin-left: 33px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 25px; font-family: Inter; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <font style="font-size: 20px">
+                                    Mysqlや, MongoDB, SMB等、
+                                    <br/>
+                                    ストレージ関係のサーバー
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="33" y="1414" fill="rgb(0, 0, 0)" font-family="Inter" font-size="25px">
+                    Mysqlや, MongoDB, SMB等、...
+                </text>
+            </switch>
+        </g>
+        <rect x="421" y="1361" width="330" height="90" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 328px; height: 1px; padding-top: 1406px; margin-left: 423px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 25px; font-family: Inter; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <span style="font-size: 20px">
+                                    笹だサーバーのマイクラ鯖を動かしているサーバー
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="423" y="1414" fill="rgb(0, 0, 0)" font-family="Inter" font-size="25px">
+                    笹だサーバーのマイクラ鯖を動かしているサーバー
+                </text>
+            </switch>
+        </g>
+        <rect x="865" y="1161" width="350" height="300" rx="21" ry="21" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-width="2.5" pointer-events="all"/>
+        <rect x="865" y="1161" width="146" height="50" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 144px; height: 1px; padding-top: 1186px; margin-left: 866px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <font face="Inter">
+                                    deploy
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="938" y="1195" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px" text-anchor="middle">
+                    deploy
+                </text>
+            </switch>
+        </g>
+        <rect x="905" y="1211" width="270" height="150" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 268px; height: 1px; padding-top: 1286px; margin-left: 907px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Inter; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <font style="font-size: 25px">
+                                    Core:  4
+                                    <br/>
+                                    RAM: 8GB
+                                    <br/>
+                                    OS: Rocky
+                                </font>
+                                <br/>
+                                <div style="text-align: justify"></div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="907" y="1295" fill="rgb(0, 0, 0)" font-family="Inter" font-size="30px">
+                    Core:  4...
+                </text>
+            </switch>
+        </g>
+        <rect x="875" y="1361" width="330" height="90" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 328px; height: 1px; padding-top: 1406px; margin-left: 877px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 25px; font-family: Inter; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <span style="font-size: 20px">
+                                    webサイトやDiscordBotなどを動かしているサーバー。
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="877" y="1414" fill="rgb(0, 0, 0)" font-family="Inter" font-size="25px">
+                    webサイトやDiscordBotなどを動かしているサーバー。
+                </text>
+            </switch>
+        </g>
+        <rect x="1278" y="1161" width="350" height="300" rx="21" ry="21" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-width="2.5" pointer-events="all"/>
+        <rect x="1278" y="1161" width="123" height="50" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 121px; height: 1px; padding-top: 1186px; margin-left: 1279px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <font face="Inter">
+                                    dev
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1340" y="1195" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px" text-anchor="middle">
+                    dev
+                </text>
+            </switch>
+        </g>
+        <rect x="1318" y="1211" width="270" height="150" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 268px; height: 1px; padding-top: 1286px; margin-left: 1320px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Inter; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <font style="font-size: 25px">
+                                    Core:  4
+                                    <br/>
+                                    RAM: 8GB
+                                    <br/>
+                                    OS: Rocky
+                                </font>
+                                <br/>
+                                <div style="text-align: justify"></div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1320" y="1295" fill="rgb(0, 0, 0)" font-family="Inter" font-size="30px">
+                    Core:  4...
+                </text>
+            </switch>
+        </g>
+        <rect x="1288" y="1361" width="330" height="90" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 328px; height: 1px; padding-top: 1406px; margin-left: 1290px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 25px; font-family: Inter; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <span style="font-size: 20px">
+                                    開発に使うサーバー。
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1290" y="1414" fill="rgb(0, 0, 0)" font-family="Inter" font-size="25px">
+                    開発に使うサーバー。
+                </text>
+            </switch>
+        </g>
+        <rect x="21" y="871" width="740" height="90" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 738px; height: 1px; padding-top: 916px; margin-left: 23px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 20px; font-family: Inter; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <span style="font-size: 25px">
+                                    CPU:
+                                </span>
+                                <font style="font-size: 25px">
+                                    AMD Ryzen 3 2200G with Radeon Vega Graphics
+                                    <br/>
+                                    RAM: 26GB
+                                    <br/>
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="23" y="922" fill="rgb(0, 0, 0)" font-family="Inter" font-size="20px">
+                    CPU: AMD Ryzen 3 2200G with Radeon Vega Graphics...
+                </text>
+            </switch>
+        </g>
+        <rect x="865" y="871" width="740" height="90" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 738px; height: 1px; padding-top: 916px; margin-left: 867px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 20px; font-family: Inter; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <span style="font-size: 25px">
+                                    CPU:
+                                </span>
+                                <font>
+                                    <font style="font-size: 25px">
+                                        Intel(R) Xeon(R) CPU E3-1220 v3 @ 3.10GHz
+                                    </font>
+                                    <br/>
+                                    <span style="font-size: 25px">
+                                        RAM: 26GB
+                                    </span>
+                                    <br/>
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="867" y="922" fill="rgb(0, 0, 0)" font-family="Inter" font-size="20px">
+                    CPU: Intel(R) Xeon(R) CPU E3-1220 v3 @ 3.10GHz...
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>
